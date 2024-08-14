@@ -1,0 +1,7 @@
+
+Item: Apple, Quantity: 50, Price: $0.50
+Item: Banana, Quantity: 30, Price: $0.30
+Item: Orange, Quantity: 20, Price: $0.60
+Item: Grapes, Quantity: 15, Price: $2.00
+Item: Watermelon, Quantity: 5, Price: $3.00
+

@@ -1,0 +1,6 @@
+
+Groceries: $50.25
+Rent: $1200.00
+Utilities: $150.75
+Entertainment: $60.50
+Transportation: $45.00
